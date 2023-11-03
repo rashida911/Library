@@ -1,0 +1,79 @@
+.container-1{
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    background-image: url(../Images/reading-1.jpg);
+}
+
+.container-2{
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.container-2-1{
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    
+}
+
+.container-2-2{
+    text-align: center;
+    height: 50%;
+    width: 50%;
+}
+
+.main-sign-up{
+    display: flex;
+}
+
+
+.sign-up{
+    
+    height: 400px;
+    width: 900px;
+    
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.top-signup{
+    height: 500px;
+    width: max-content;
+}
+
+.sign-2-1{
+    height: max-content;
+    width: 50%;
+    color: aquamarine;
+    text-align: center;
+    padding: 100px;
+    margin: 200px;
+}
+
+.login-page{
+    display: flex;
+}
+
+.row-1{
+    display: flex;
+}
+
+.row-2{
+    display: flex;
+}
+
+.row-3{
+    display: flex;
+}
+
+.books{
+    margin: 100px;
+}
+
+.top-container{
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
